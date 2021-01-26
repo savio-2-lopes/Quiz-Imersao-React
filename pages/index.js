@@ -11,7 +11,7 @@ export const QuizContainer = styled.div`
   width: 100%;
   max-width: 350px;
   padding-top: 45px;
-  margin: auto 10%;
+  margin: auto 10%; 
   @media screen and (max-width: 500px) {
     margin: auto;
     padding: 15px;
@@ -28,8 +28,6 @@ export default function Home() {
         <meta property="org:url" content="" />
         <meta property="org:title" content="Musicais Quiz" />
         <meta property="org:image" content="https://wallpapercave.com/wp/wp2296748.jpg" />
-        {/* // Todos os direitos de imagem reservados a
-        // a href="https://wallpapercave.com/w/wp2296748" */}
       </Head>
 
       <QuizBackground backgroundImage={db.bg}>
@@ -59,3 +57,5 @@ export default function Home() {
     </>
   );
 }
+{/* // Todos os direitos de imagem reservados a
+        // a href="https://wallpapercave.com/w/wp2296748" */}
