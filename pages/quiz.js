@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { useRouter} from 'next/router';
+import { useRouter} from 'next/router'; 
 import { useEffect, useState } from "react";
 
 import QuizBackground from '../src/components/QuizBackground';
