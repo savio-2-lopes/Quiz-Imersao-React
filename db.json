@@ -1,34 +1,34 @@
-  {
-  "bg": "https://wallpapercave.com/wp/wp2296748.jpg",  
-  "title": "Quiz Musicais",
-  "description": "Quiz para testar seus conhecimentos sobre musicais em geral",
+{
+  "githubUrl": "https://github.com/savio-2-lopes/quiz-imersao-react",
+  "url": "https://quiz-imersao-react.savio-2-lopes.vercel.app/",
+  "bg": "https://wallpapercave.com/wp/wp2296748.jpg",
+  "title": "Quiz sobre Musicais",
+  "description": "Quiz para testar seus conhecimentos sobre Musicais em geral",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
-      "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
-      ]
+      "image": "https://media.giphy.com/media/kDCEE5hweYqjhC3Ns3/giphy.gif",
+      "title": "De qual dos musicais abaixo é este trecho?",
+      "description": "I am not throwing away my shot, I am not throwing away my shot",
+      "answer": 1,
+      "alternatives": ["Heather", "Wicked", "Les Misérables", "Hamilton"]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/458lzXzm7W5Jni2eS4/giphy.gif",
+      "title": "De qual dos musicais abaixo é este trecho?",
+      "description": "What is this feeling? Fervid as a flame Does it have a name? Yes! Loathing",
       "answer": 0,
-      "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
-      ]
+      "alternatives": ["Wicked", "O Fantasma da Ópera", "Hamilton", "Les Misérables"]
+    },
+    {
+      "image": "https://media.giphy.com/media/3o7TKzBxHeX1DHVhJe/giphy.gif",
+      "title": "De qual dos musicais abaixo é este trecho?",
+      "description": "In sleep he sang to me. In dreams he came. That voice which calls to me. And speaks my name",
+      "answer": 4,
+      "alternatives": ["Les Misérables", "Heather: The Musical", "Hamilton", "O Fantasma da Ópera"]
     }
   ],
-  "external": [
-    ""
-  ],
+  
+  "external": [""],
   "theme": {
     "colors": {
       "primary": "#a1c925",
