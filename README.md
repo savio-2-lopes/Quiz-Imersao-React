@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Musical Quiz" title="Musical Quiz" src="./assets/01.gif" width="600px" />
+    <img alt="Musical Quiz" title="Musical Quiz" src="./assets/01.gif" width="700px" />
 </h3>
 
 <p align="center"> 🕹️ <strong>Quiz Musical - 2º Imersão React Next.JS</strong> 🚧 </p>
@@ -47,7 +47,7 @@ Projeto desenvolvido durante a **2º Edição da Imersão React Next.JS** oferec
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Musical Quiz" title="#Musical-Quiz" src="./assets/01.gif" width="600px">
+  <img alt="Musical Quiz" title="#Musical-Quiz" src="./assets/01.gif" width="700px">
 </p>
 
 <br>
