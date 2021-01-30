@@ -116,6 +116,8 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
 
+<br>
+
 <a id="agradecimento"></a>
 
 ## 💙  Agradecimentos
