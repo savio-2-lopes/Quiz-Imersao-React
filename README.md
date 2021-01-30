@@ -67,7 +67,7 @@ Projeto desenvolvido durante a **2º Edição da Imersão React Next.JS** oferec
 
 ## 🚀 Como executar o projeto
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e, opcionalmente, **[Yarn](https://yarnpkg.com/)** para ter uma melhor experiência quando for executar a aplicação. 
+Para utilizar a aplicação, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e, opcionalmente, **[Yarn](https://yarnpkg.com/)** para ter uma melhor experiência quando for executar a aplicação. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 <br>
