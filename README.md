@@ -38,7 +38,7 @@
 
 🕹️ Musical Quiz - É um projeto feito para testar seus conhecimentos sobre Musicais.
 
-Projeto desenvolvido durante a **2º Ediçãoo da Imersão React Next.JS** oferecida pela [Alura](https://www.alura.com.br).
+Projeto desenvolvido durante a **2º Edição da Imersão React Next.JS** oferecida pela [Alura](https://www.alura.com.br).
 
 <br>
 
