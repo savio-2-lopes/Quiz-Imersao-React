@@ -2,7 +2,7 @@ import React from 'react';
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
 import HeadConfig from './_head';
 import db from '../db.json';
-
+ 
 const GlobalStyle = createGlobalStyle`
   * {
     box-sizing: border-box;
