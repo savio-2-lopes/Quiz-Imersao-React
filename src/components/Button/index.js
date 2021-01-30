@@ -5,8 +5,7 @@ const Button = styled.button`
   background-color: ${({ theme }) => theme.colors.primary};
   color: ${({ theme }) => theme.colors.contrastText};
   border-radius: ${({ theme }) => theme.borderRadius};
-  border: 0;
-  
+  border: 0;  
   width: 100%;
   padding: 15px 15px;
   font-weight: bold;
@@ -16,10 +15,9 @@ const Button = styled.button`
   outline: 0;
   transition: .3s;
   cursor: pointer;
-  
   &:hover,
   &:focus {
-    opacity: .9;
+    opacity: .7;
   }
   &:disabled {
     background-color: #a1c925;

@@ -9,7 +9,7 @@
       "image": "https://media.giphy.com/media/kDCEE5hweYqjhC3Ns3/giphy.gif",
       "title": "De qual dos musicais abaixo é este trecho?",
       "description": "I am not throwing away my shot, I am not throwing away my shot",
-      "answer": 1,
+      "answer": 3,
       "alternatives": ["Heather", "Wicked", "Les Misérables", "Hamilton"]
     },
     {
@@ -23,21 +23,44 @@
       "image": "https://media.giphy.com/media/3o7TKzBxHeX1DHVhJe/giphy.gif",
       "title": "De qual dos musicais abaixo é este trecho?",
       "description": "In sleep he sang to me. In dreams he came. That voice which calls to me. And speaks my name",
-      "answer": 4,
-      "alternatives": ["Les Misérables", "Heather: The Musical", "Hamilton", "O Fantasma da Ópera"]
+      "answer": 2,
+      "alternatives": ["Les Misérables", "Heather: The Musical", "O Fantasma da Ópera", "Hamilton"]
+    },
+    {
+      "image": "https://media.giphy.com/media/11cmGS5OQWcXT2/giphy.gif",
+      "title": "De qual dos musicais abaixo é este trecho?",
+      "description": "He slept a summer by my side. He filled my days with. endless wonder. He took my childhood in his stride. But he was gone when. autumn came",
+      "answer": 3,
+      "alternatives": ["Rent", "Annie", "Mean Girls", "Les Misérables"]
+    }, 
+    {
+      "image": "https://media.giphy.com/media/fwTEhuOfGj7auvxVjv/giphy.gif",
+      "title": "De qual dos musicais abaixo é este trecho?",
+      "description": "I don't care what they're, going to say. Let the storm rage on. The cold never bothered me anyway",
+      "answer": 1,
+      "alternatives": ["Lion King: The Musical", "Frozen: The Musical", "Hamilton", "Annie"]
+    }, 
+    {
+      "image": "https://media.giphy.com/media/STrmT9hs9hDCSCsIGo/giphy.gif",
+      "title": "De qual dos musicais abaixo é este trecho?",
+      "description": "So prepare for a chance. Of a lifetime. Be prepared for sensational news. A shining new era. Is tiptoeing nearer",
+      "answer": 2,
+      "alternatives": ["Heather: The Musical", "Frozen: The Musical", "Lion King: The Musical", "Annie"]
     }
+  ],  "external": [
+    "https://aluraquiz-base-git-main.alura-challenges.vercel.app",
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
-  
-  "external": [""],
   "theme": {
     "colors": {
       "primary": "#a1c925",
-      "secondary": "#a1c925",
+      "secondary": "#1bf2bc",
       "mainBg": "#1c1814",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
-      "success": "#4CAF50"
-    },
+      "wrong": "#fb0008",
+      "success": "#47fa07"
+    },   
     "borderRadius": "5px"
   }
 }
