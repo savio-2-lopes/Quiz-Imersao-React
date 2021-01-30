@@ -54,7 +54,7 @@ Projeto desenvolvido durante a **2º Ediçãoo da Imersão React Next.JS** ofere
 
 <a id="tecnologias"></a>
 
-## Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 * [Reactjs](https://pt-br.reactjs.org)
 * [Nextjs](https://nextjs.org)
 * [Nodejs](https://nodejs.org/en/)
