@@ -70,7 +70,9 @@ Projeto desenvolvido durante a **2º Edição da Imersão React Next.JS** oferec
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e, opcionalmente, **[Yarn](https://yarnpkg.com/)** para ter uma melhor experiência quando for executar a aplicação. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### :octocat: Faça o clone do projeto
+<br>
+
+#### :octocat: Faça o clone do projeto
 
 ```bash
 # Clone este repositório
@@ -81,7 +83,9 @@ $ cd quiz-imersao-react
 
 ```
 
-### 💻 Rodando a aplicação
+<br>
+
+#### 💻 Rodando a aplicação
 ```bash
 
 # Instale as dependências
