@@ -26,6 +26,7 @@
 - [Layout](#layout)
 - [Tecnologias](#tecnologias)
 - [Como Executar](#executar)
+- [Deploy](#deploy)
 - [Licença](#licenca)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimento)
@@ -60,6 +61,7 @@ Projeto desenvolvido durante a **2º Edição da Imersão React Next.JS** oferec
 * [Nodejs](https://nodejs.org/en/)
 * [Styled Components](https://styled-components.com/)
 * [ESlint](https://eslint.org)
+* [Vercel](https://vercel.com/)
 
 <br>
 
@@ -98,6 +100,14 @@ $ yarn dev
 # ou
 $ npm dev 
 ```
+
+<br>
+
+<a id="deploy"></a>
+
+## :zap: Deploy
+
+Para acessar o deploy hospedado no Vercel, segue o [link](https://quiz-imersao-react.savio-2-lopes.vercel.app/)
 
 <br>
 
